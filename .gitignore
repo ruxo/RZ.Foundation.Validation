@@ -1,0 +1,7 @@
+obj/
+bin/
+publish/
+.idea/
+appsettings.*.json
+http-client.env.json
+/*.sln*.DotSettings.user
