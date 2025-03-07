@@ -6,9 +6,9 @@
     <LangVersion>preview</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="FluentAssertions" Version="8.0.1" />
+    <PackageVersion Include="FluentAssertions" Version="8.1.1" />
     <PackageVersion Include="FluentValidation" Version="11.11.0" />
-    <PackageVersion Include="RZ.Foundation" Version="7.0.0" />
+    <PackageVersion Include="RZ.Foundation" Version="7.0.2" />
     <PackageVersion Include="MinVer" Version="6.0.0" />
     <!-- Test packages -->
     <PackageVersion Include="coverlet.collector" Version="6.0.4">
