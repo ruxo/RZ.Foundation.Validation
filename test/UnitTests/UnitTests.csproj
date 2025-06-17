@@ -7,9 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="coverlet.collector" />
-    <PackageReference Include="FluentAssertions" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" />
-    <PackageReference Include="xunit" />
+    <PackageReference Include="RZ.Foundation.Testing" />
     <PackageReference Include="xunit.runner.visualstudio" />
   </ItemGroup>
 

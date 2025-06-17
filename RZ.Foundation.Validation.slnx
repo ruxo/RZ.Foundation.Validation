@@ -1,0 +1,14 @@
+﻿<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="Directory.Packages.props" />
+    <File Path="build.ps1" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src\RZ.Foundation.Validation\RZ.Foundation.Validation.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test\UnitTests\UnitTests.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
