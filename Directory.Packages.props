@@ -7,8 +7,8 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="FluentValidation" Version="12.1.1" />
-    <PackageVersion Include="RZ.Foundation" Version="8.0.0" />
-    <PackageVersion Include="MinVer" Version="6.0.0" />
+    <PackageVersion Include="RZ.Foundation" Version="8.2.2" />
+    <PackageVersion Include="MinVer" Version="7.0.0" />
     <!-- Test packages -->
     <PackageVersion Include="coverlet.collector" Version="6.0.4">
       <PrivateAssets>all</PrivateAssets>
