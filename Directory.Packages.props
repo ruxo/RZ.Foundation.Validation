@@ -7,18 +7,9 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="FluentValidation" Version="12.1.1" />
-    <PackageVersion Include="RZ.Foundation" Version="8.2.9" />
+    <PackageVersion Include="RZ.Foundation" Version="8.2.15" />
     <PackageVersion Include="MinVer" Version="7.0.0" />
     <!-- Test packages -->
-    <PackageVersion Include="coverlet.collector" Version="6.0.4">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageVersion>
-    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="18.0.1" />
-    <PackageVersion Include="RZ.Foundation.Testing" Version="8.1.0" />
-    <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.5">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageVersion>
+    <PackageVersion Include="TUnit" Version="1.45.22" />
   </ItemGroup>
 </Project>
